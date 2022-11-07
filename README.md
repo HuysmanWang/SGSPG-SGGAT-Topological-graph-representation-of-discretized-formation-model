@@ -16,4 +16,6 @@ problems with Spatio-temporal heterogeneity
 
 DOI:https://doi.org/10.1016/j.compgeo.2022.105112
 
-figshare DOI:10.6084/m9.figshare.c.6285465
+figshare 
+DOI:10.6084/m9.figshare.c.6285465
+DOI:10.6084/m9.figshare.21509670
