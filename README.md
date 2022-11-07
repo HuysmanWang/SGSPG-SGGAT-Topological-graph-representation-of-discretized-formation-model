@@ -15,3 +15,5 @@ interpretability for graph neural network (GNN) and is advantageous for geophysi
 problems with Spatio-temporal heterogeneity
 
 DOI:https://doi.org/10.1016/j.compgeo.2022.105112
+
+figshare DOI:10.6084/m9.figshare.c.6285465
