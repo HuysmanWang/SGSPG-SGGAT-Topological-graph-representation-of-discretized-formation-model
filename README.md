@@ -1,4 +1,4 @@
-# TGLABX on discretized formation model of geo-parameters predictiom
+# TGLABX on discretized formation model of geo-parameters prediction
 
 SGSPG-SGGAT-Topological-graph-representation-of-discretized-formation-model
 The soil’s compression modulus (Es) is one of the most critical mechanical parameters for studying land subsidence
