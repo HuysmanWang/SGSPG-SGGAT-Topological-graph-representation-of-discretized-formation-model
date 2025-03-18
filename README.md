@@ -1,4 +1,6 @@
-# SGSPG-SGGAT-Topological-graph-representation-of-discretized-formation-model
+# TGLABX on discretized formation model of geo-parameters predictiom
+
+SGSPG-SGGAT-Topological-graph-representation-of-discretized-formation-model
 The soil’s compression modulus (Es) is one of the most critical mechanical parameters for studying land subsidence
 in urban strata. Meanwhile, the vertical heterogeneity and lateral discontinuity in the distribution of Es is
 one of the leading causes of TBM (tunnel-boring-machine) entrapment in the field. In this study, we first obtain
